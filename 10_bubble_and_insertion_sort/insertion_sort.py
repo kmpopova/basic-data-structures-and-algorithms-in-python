@@ -1,6 +1,8 @@
 """
 TASK: Implement a Python function insertion_sort(data_list) that 
 sorts the given list in-place using the Insertion Sort algorithm.
+
+Compare the running time of insertion_sort with bubble_sort.
 """
 
 import random
