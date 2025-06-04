@@ -1,6 +1,6 @@
 # Basic Data Structures and Algorithms
 
-This repository contains Python scripts and exercises for learning and practicing fundamental data structures and algorithms in Python. Each subfolder focuses on a specific topic, with hands-on code examples, scripts, and small projects.
+Python scripts and exercises I completed while practicing fundamental data structures and algorithms in Python. Each subfolder focuses on a specific topic, with hands-on code examples, scripts, and small projects.
 
 ## Folder Structure
 
