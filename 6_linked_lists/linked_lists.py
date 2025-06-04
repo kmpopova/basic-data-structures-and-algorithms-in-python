@@ -16,7 +16,6 @@ class LinkedList():
 
     def __str__(self):
         nodes_in_llist = []
-        #length_of_llist = self.retrieve_length()
         current = self.head
         if current != None:
             nodes_in_llist.append(str(current.data))
